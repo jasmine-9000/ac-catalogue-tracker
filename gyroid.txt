@@ -1,0 +1,127 @@
+Mini Alloid
+Mini Gargloid
+Mega Poltergoid
+Mega Alloid
+Gargloid
+Poltergoid
+Tall Alloid
+Tall Gargloid
+Tall Poltergoid
+Mega Bovoid
+Mini Gongoid
+Mini Puffoid
+Tall Bovoid
+Mega Gongoid
+Mega Puffoid
+Mini Bowtoid
+Gongoid
+Tall Puffoid
+Mega Bowtoid
+Tall Gongoid
+Mini Quazoid
+Bowtoid
+Mini Harmonoid
+Mega Quazoid
+Tall Bowtoid
+Mega Harmonoid
+Quazoid
+Mini Buzzoid
+Harmonoid
+Tall Quazoid
+Mega Buzzoid
+Tall Harmonoid
+Slim Quazoid
+Buzzoid
+Mini Howloid
+Mini Rythmoid
+Tall Buzzoid
+Mega Howloid
+Rythmoid
+Mini Clankoid
+Howloid
+Mini Rustoid
+Mega Clankoid
+Mini Lamentoid
+Rustoid
+Clankoid
+Mega Lamentoid
+Mega Rustoid
+Tall Clankoid
+Lamentoid
+Mini Sproid
+Mini Croakoid
+Tall Lamentoid
+Mega Sproid
+Mega Croakoid
+Mini Lullaboid
+Sproid
+Croakoid
+Mega Lullaboid
+Tall Sproid
+Tall Croakoid
+Lullaboid
+Mini Sputnoid
+Mini Dekkoid
+Tall Lullaboid
+Mega Sputnoid
+Mega Dekkoid
+Mini Metatoid
+Sputnoid
+Dekkoid
+Metatoid
+Tall Sputnoid
+Wee Dingoid
+Mini Nebuloid
+Mini Squelchoid
+Mini Dingoid
+Mega Nebuloid
+Mega Squelchoid
+Mega Dingoid
+Squat Nebuloid
+Squelchoid
+Squat Dingoid
+Nebuloid
+Mini Strumboid
+Dingoid
+Tall Nebuloid
+Mega Strumboid
+Tall Dingoid
+Slim Nebuloid
+Strumboid
+Mini Dinkoid
+Mega Oboid
+Tall Strumboid
+Maga Dinkoid
+Oboid
+Mini Timpanoid
+Mini Drilloid
+Tall Oboid
+Mega Timpanoid
+Mega Drilloid
+Mini Oombloid
+Timpanoid
+Drilloid
+Mega Oombloid
+Tall Timpanoid
+Tall Droploid
+Oombloid
+Mini Tootoid
+Mini Echoid
+Tall Oombloid
+Mega Tootoid
+Mega Echoid
+Mega Percoloid
+Tootoid
+Tall Echoid
+Tall Percoloid
+Mini Warbloid
+Mini Fizzoid
+Mini Plinkoid
+Warbloid
+Mega Fizzoid
+Mega Plinkoid
+Tall Warbloid
+Mini Freakoid
+Plinkoid
+Mega Freakoid
+Mini Poltergoid

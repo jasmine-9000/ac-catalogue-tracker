@@ -1,0 +1,57 @@
+[] Beach Chair  (!!!)-             [] Arc de Triomphe  (!!!)-           [] Cosmos Model 1 (!!!)-
+[] Beach Table  (!!!)-             [] Chinese Lion     (!!!)-           [] Cosmos Model 2 (!!!)-
+[] Diver Dan    (!!!)-             [] Chinese Lioness    (!!!)-         [] Cosmos Model 3 (!!!)-
+[] Life Ring    (!!!)-             [] Compass           (!!!)-          [] Dirt Model (!!!)-
+[] Snowcone Machine  (!!!)-        [] Fishing Bear     (!!!)-           [] Dump Model (!!!)-
+[] Surfboard       (!!!)-          [] Lady Liberty    (!!!)-            [] Grass Model (!!!)-
+[] Treasure Chest  (!!!)-          [] Manekin Pis     (!!!)-            [] House Model (!!!)-
+[] Ukulele        (!!!)-           [] Matryoshka      (!!!)-            [] Igloo Model(!!!)-
+[] Wave Breaker   (!!!)-           [] Merlion       (!!!)-              [] Katrina's Tent
+[]                           [] Mermaid Statue                          [] Lighthouse Model (!!!)-
+[]                           [] Moai Statue                             [] Locomotive Model (!!!)-
+[] Aerobics Radio            [] Mouth of Truth                          [] Manor Model (!!!)-
+[] Angler Trophy             [] Pagoda                                  [] Market Model (!!!)-
+[] Autumn Medal              [] Plate Armor                             [] Museum Model (!!!)-
+[] Backpack                  [] Shogi Piece                             [] Pansy Model 1 (!!!)-
+[] Birthday Cake             [] Stone Coin                              [] Pansy Model 2 (!!!)-
+[] Bonfire                   [] Tiger Bobblehead                        [] Pansy Model 3 (!!!)-
+[] Bottle Rocket             [] Tokyo Tower                             [] Pink Tree Model (!!!)-
+[] Bottled Ship              [] Tower of Pisa                           [] Police Model (!!!)-
+[] Campfire                  [] Tribal Mask                             [] Post Model (!!!)-
+[] Chocolates                []                                         [] Shop Model (!!!)-
+[] Chowder                   []                                         [] Snowy Tree Model (!!!)-
+[] Cooler                    [] Balloon Fight                           [] Station Model 1 (!!!)-
+[] Cornucopia                [] Baseball                                [] Station Model 2 (!!!)-
+[] Crab Stew                 [] Clu Clu Land                            [] Station Model 3 (!!!)-
+[] Dolly                     [] Clu Clu Land D                          [] Station Model 4 (!!!)-
+[] Fireplace                 [] DK Jr Math                              [] Station Model 5 (!!!)-
+[] Fishing Trophy            [] Donkey Kong                             [] Station Model 6 (!!!)-
+[] Kayak                     [] Donkey Kong 3                           [] Station Model 7 (!!!)-
+[] Lantern                   [] Donkey Kong Jr.                         [] Station Model 8 (!!!)-
+[] Lovely Phone              [] Excitebike                              [] Station Model 9 (!!!)-
+[] Mailbox                   [] Golf                                    [] Station Model 10 (!!!)-
+[] Miniature Car             [] NES             -(R)                    [] Station Model 11 (!!!)-
+[] Moon                      [] Pinball                                 [] Station Model 12 (!!!)-
+[] Mountain Bike             [] Punch-Out                               [] Station Model 13 (!!!)-
+[] Noisemaker                [] Soccer                                  [] Station Model 14 (!!!)-
+[] Piggy Bank                [] Super Tortimer                          [] Station Model 15 (!!!)-
+[] Propane Stove             [] Tennis                                  [] Tailor Model (!!!)-
+[] Sleeping Bag              [] Wario's Woods                           [] Tent Model (!!!)-
+[] Sleigh                    []                                         [] Track Model (!!!)-
+[] Snow Bunny                []                                         [] Train Car Model (!!!)-
+[] Snowboard                 [] Blue Diary                              [] Tree Model (!!!)-
+[] Snowman                   [] Blue Polka Pad                          [] Tulip Model 1 (!!!)-
+[] Spring Medal              [] Calligraphy Pad                         [] Tulip Model 2 (!!!)-
+[] Telescope                 [] Captain's Log                           [] Tulip Model 3 (!!!)-
+[] Tissue                    [] College Rule                            [] Weed Model (!!!)-
+[] Festive Tree              [] Diary                                   [] Well Model (!!!)-
+[] Big Festive Tree          [] French Notebook []
+[] Festive Candle            [] Green Plaid Pad []
+[] Festive Flag              [] Journal []
+[] Birthday Cake             [] Organizer []
+[] Jack o Lantern            [] Pink Diary []
+[] jack in the Box           [] Pink Plaid Pad []
+[] Bottle Rocket             [] Red Polka Pad []
+[]                           [] School Pad []
+[]                           [] Scroll []
+[]                           [] Yellow Plaid Pad []

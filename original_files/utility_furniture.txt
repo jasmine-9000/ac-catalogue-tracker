@@ -1,0 +1,255 @@
+-BLUE SERIES-                -GREEN SERIES-               -REGAL SERIES-
+[] Blue Bed         -(R)     [] Green Bed                 [] Regal Armoire
+[] Blue Bench                [] Green Bench               [] Regal Bed        -(R)
+[] Blue Bookcase             [] Green Chair               [] Regal Bookcase
+[] Blue Bureau               [] Green Counter             [] Regal Chair      -(R)
+[] Blue Cabinet              [] Green Desk                [] Regal Cupboard   -(L)
+[] Blue Chair                [] Green Dresser    -(R)     [] Regal Dresser
+[] Blue Clock                [] Green Lamp                [] Regal Lamp
+[] Blue Dresser     -(L)     [] Green Pantry     -(L)     [] Regal Sofa
+[] Blue Table       -(R)     [] Green Table               [] Regal Table
+[] Blue Wardrobe             [] Green Wardrobe   -(R)     [] Regal Vanity
+
+-CABANA SERIES-              -KIDDIE SERIES-              -HARVEST SERIES (!!!)-
+[] Cabana Armchair  -(L)     [] Kiddie Bed       -(R)     [] Harvest Bed
+[] Cabana Bed       -(R)     [] Kiddie Bookcase           [] Harvest Bureau
+[] Cabana Bookcase           [] Kiddie Bureau             [] Harvest Chair
+[] Cabana Chair     -(R)     [] Kiddie Chair              [] Harvest Clock
+[] Cabana Dresser            [] Kiddie Clock     -(R)     [] Harvest Dresser
+[] Cabana Lamp               [] Kiddie Couch              [] Harvest Lamp
+[] Cabana Screen             [] Kiddie Dresser            [] Harvest Mirror
+[] Cabana Table              [] Kiddie Stereo    -(L)     [] Harvest Sofa
+[] Cabana Vanity             [] Kiddie Table              [] Harvest Table
+[] Cabana Wardrobe           [] Kiddie Wardrobe           [] Harvest TV
+
+-CABIN SERIES-               -LOVELY SERIES-              -MODERN SERIES-
+[] Cabin Armchair            [] Lovely Armchair           [] Modern Bed
+[] Cabin Bed                 [] Lovely Armoire            [] Modern Cabinet   -(L)
+[] Cabin Bookcase   -(L)     [] Lovely Bed                [] Modern Chair
+[] Cabin Chair      -(R)     [] Lovely Chair              [] Modern Desk
+[] Cabin Clock               [] Lovely Dresser            [] Modern Dresser
+[] Cabin Couch               [] Lovely End Table -(R)     [] Modern End Table -(R)
+[] Cabin Dresser    -(R)     [] Lovely Kitchen   -(L)     [] Modern Lamp
+[] Cabin Low Table           [] Lovely Lamp               [] Modern Sofa
+[] Cabin Table               [] Lovely Table              [] Modern Table
+[] Cabin Wardrobe            [] Lovely Vanity             [] Modern Wardrobe  -(R)
+
+-CLASSIC SERIES-             -RANCH SERIES-               -SPOOKY SERIES (!!!)-
+[] Classic Bed               [] Ranch Armchair            [] Spooky Bed
+[] Classic Cabinet           [] Ranch Bed                 [] Spooky Bookcase
+[] Classic Chair             [] Ranch Bookcase            [] Spooky Chair
+[] Classic Clock             [] Ranch Chair      -(R)     [] Spooky Clock
+[] Classic Desk              [] Ranch Couch               [] Spooky Dresser
+[] Classic Hutch    -(L)     [] Ranch Dresser    -(R)     [] Spooky Lamp
+[] Classic Sofa              [] Ranch Hutch      -(L)     [] Spooky Sofa
+[] Classic Table             [] Ranch Table               [] Spooky Table
+[] Classic Vanity   -(R)     [] Ranch Tea Table           [] Spooky Vanity
+[] Classic Wardrobe -(R)     [] Ranch Wardrobe            [] Spooky Wardrobe
+
+-EXOTIC SERIES-              -JINGLE SERIES (!!!)-        -SNOWMAN SERIES (!!!)-
+[] Exotic Bed       -(R)     [] Jingle Bed                [] Snowman Bed
+[] Exotic Bench              [] Jingle Chair              [] Snowman Chair
+[] Exotic Bureau             [] Jingle Clock              [] Snowman Clock
+[] Exotic Chair              [] Jingle Dresser            [] Snowman Dresser
+[] Exotic Chest              [] Jingle Lamp               [] Snowman Fridge
+[] Exotic End Table          [] Jingle Piano              [] Snowman Lamp
+[] Exotic Lamp      -(L)     [] Jingle Shelves            [] Snowman Sofa
+[] Exotic Screen             [] Jingle Sofa               [] Snowman Table
+[] Exotic Table     -(R)     [] Jingle Table              [] Snowman TV
+[] Exotic Wardrobe           [] Jingle Wardrobe           [] Snowman Wardrobe
+
+-BACKYARD THEME-             -BOXING THEME-               -CHESS THEME-
+[] Backyard Pool    -(R)     [] Blue Corner      -(L)     [] Black Bishop     -(R)
+[] Barbecue                  [] Boxing Barricade          [] Black King       -(L)
+[] Bird Bath                 [] Boxing Mat                [] Black Knight     -(R)
+[] Bird Feeder               [] Judge's Bell     -(R)     [] Black Pawn
+[] Birdhouse                 [] Neutral Corner            [] Black Rook       -(R)
+[] Bug Zapper                [] Red Corner       -(R)     [] Black Queen      -(L)
+[] Garden Gnome     -(L)     [] Ringside Table            [] White Bishop     -(R)
+[] Hammock                   [] Sandbag                   [] White King       -(L)
+[] Lawn Chair                [] Speed Bag                 [] White Knight     -(R)
+[] Lawn Mower       -(R)     [] Weight Bench              [] White Pawn
+[] Mr. Flamingo                                           [] White Rook       -(R)
+[] Mrs. Flamingo                                          [] White Queen      -(L)
+[] Picnic Table
+[] Sprinkler
+[] Tiki Torch
+
+-CONSTRUCTION THEME-         -MOSSY GARDEN THEME-         -CLASSROOM THEME-
+[] Cement Mixer     -(L)     [] Deer Scare       -(R)     [] Teacher's Chair
+[] Detour Arrow              [] Garden Pond      -(L)     [] Chalk Board
+[] Detour Sign               [] Low Lantern               [] Cubby Hole
+[] Flagman Sign              [] Pond Lantern              [] Flip-Top Desk
+[] Green Drum                [] Shrine Lantern            [] Folding Chair
+[] Handcart                  [] Tall Lantern              [] Lefty Desk
+[] Haz-Mat Barrel                                         [] Letter Cubby     -(R)
+[] Iron Frame                -ROCK GARDEN THEME-          [] Righty Desk
+[] Jackhammer                [] Dark Stone                [] Hamster Cage     -(L)
+[] Jersey Barrier            [] Garden Stone              [] School Desk
+[] Manhole Cover             [] Leaning Stone             [] Science Table
+[] Men at Work Sign          [] Mossy Stone               [] Teacher's Desk
+[] Merge Sign                [] Standing Stone            [] Vaulting Horse
+[] Oil Drum                  [] Stone Couple              [] Mop
+[] Orange Cone
+[] Saw Horse                 -WESTERN THEME-              -SPACE THEME-
+[] Speed Sign                [] Covered Wagon    -(L)     [] Asteroid
+[] Steamroller      -(R)     [] Cow Skull                 [] Flying Saucer
+[] Traffic Cone              [] Desert Cactus             [] Lunar Lander
+[] Wet Roadway Sign          [] Saddle Fence     -(R)     [] Lunar Rover
+                             [] Storefront                [] Rocket
+-8-BIT MARIO THEME (!!!)-    [] Tumbleweed                [] Satellite
+[] Starman                   [] Wagon Wheel               [] Space Shuttle
+[] Flagpole                  [] Watering Trough           [] Space Station
+[] Mushroom                  [] Well             -(R)     [] Spaceman Sam
+[] Fire Flower               [] Western Fence
+[] Flagpole
+[] ? Block
+[] Brick Block
+[] Cannon
+[] Green Pipe
+[] Coin
+
+-SETS-                       [] Aiko Figurine             [] Office Chair
+[] Apple Clock               [] Emi Figurine              [] Office Desk
+[] Apple TV                  [] Keiko Figurine            [] Office Locker
+                             [] Maki Figurine
+[] Baby Bear                 [] Naomi Figurine            [] Pine Chair
+[] Mama Bear                 [] Yoko Figurine             [] Pine Table
+[] Papa Bear                 [] Yuki Figurine
+                                                          [] Bear Pole
+[] Mugho Bonsai              [] Froggy Chair              [] Eagle Pole
+[] Pine Bonsai               [] Lily-pad Table            [] Frog Woman Pole  -(R)
+[] Pondarosa Bonsai                                       [] Raven Pole
+                             [] Country Guitar
+[] Cactus                    [] Folk Guitar               [] Blue Vase
+[] Round Cactus              [] Rock Guitar               [] Red Vase
+[] Tall Cactus                                            [] Tea Vase
+                             [] Luigi Trophy     -(R)
+[] Grapefruit Table          [] Mario Trophy     -(L)     [] Candy Machine
+[] Lemon Table                                            [] Coffee Machine
+[] Lime Chair                [] Melon Chair               [] Pop Machine      -(L)
+[] Orange Chair              [] Watermelon Chair          [] Soda Machine
+                             [] Watermelon Table
+[] Daffodil Chair                                         [] Globe
+[] Daffodil Table            [] Arwing           -(L)     [] Writing Chair
+                             [] G Logo                    [] Writing Desk
+[] Iris Chair                [] Master Sword
+[] Iris Table                [] N Logo                    [] Conga Drum
+                                                          [] Djimbe Drum
+[] Tulip Chair               [] Pear Dresser              [] Tinpano Drum     -(R)
+[] Tulip Table               [] Pear Wardrobe
+                                                          [] Cello
+[] Robo Clock                                             [] Violin
+[] Robo Stereo                                            [] Bass
+
+-MISC. ETC-                  -MISC. ETC (CONT.)-          -PAINTINGS-
+[] Barber's Pole             [] Cream Sofa                [] Amazing Painting -(R)
+[] Barrel                    [] Gold Econo-chair          [] Basic Painting
+[] Billiard Table            [] Red Sofa                  [] Classic Painting
+[] Birdcage                  [] Jade Econo-chair          [] Common Painting  -(R)
+[] Bus Stop                  [] Red Armchair              [] Dainty Painting  -(R)
+[] Chess Table               [] Red Sofa                  [] Famous Painting  -(R)
+[] Computer         -(R)     [] Rocking Chair             [] Fine Painting
+[] Elephant Slide            [] Ruby Econo-chair          [] Flowery Painting -(R)
+[] Executive Toy             [] Alarm Clock               [] Moving Painting  -(R)
+[] Extinguisher              [] Antique Clock             [] Perfect Painting
+[] Fan                       [] Cube Clock                [] Quaint Painting  -(R)
+[] Garbage Can               [] Glow Clock                [] Rare Painting
+[] Glass Top Table           [] Kitschy Clock             [] Scary Painting   -(R)
+[] Hinaningyo       -(R)     [] Odd Clock                 [] Strange Painting
+[] Keg                       [] Owl Clock                 [] Worthy Painting
+[] Mochi Pestle              [] Red Clock
+[] Nook's Portrait  -(L)     [] Azalea Bonsai             -INSTRUMENTS-
+[] Orange Box                [] Hawthorn Bonsai           [] Biwa Lute
+[] Pineapple Bed             [] Holly Bonsai              [] Ebony Piano      -(R)
+[] Potbelly Stove            [] Jasmine Bonsai            [] Harp
+[] Slot Machine              [] Maple Bonsai              [] Ivory Piano      -(L)
+[] Stove                     [] Plum Bonsai      -(L)     [] Metronome
+[] Radiator                  [] Quince Bonsai             [] Taiko Drum
+[] Refrigerator              [] Aloe                      [] Vibraphone
+[] Retro TV                  [] Bromeliaceae
+[] Rocking Chair             [] Caladium
+[] Samurai Suit     -(L)     [] Coconut Palm
+[] Scale                     [] Corn Plant
+[] Sewing Machine            [] Croton
+[] Space Heater              [] Dracaena         -(L)
+[] Super Toilet     -(R)     [] Fan Palm
+[] Table Tennis              [] Lady Palm
+[] Tanabata Palm    -(R)     [] Pachira
+[] Tea Set                   [] Pothos
+[] Toilet                    [] Rubber Tree
+[] Train Set                 [] Snake Plant
+[] Trash Bin                 [] Weeping Fig
+[] Water Bird                [] CD Player
+[] Wide-screen TV   -(R)     [] Dice Stereo      -(R)
+[] Wobbelina                 [] Gold Stereo
+[] Daffodil                  [] Hi-Fi Stereo     -(L)
+[] Gerbera                   [] High-End Stereo  -(R)
+[] Sunflower                 [] Jukebox          -(L)
+[] Blue Golf Bag             [] Red Boom Box
+[] Green Golf Bag            [] Phonograph
+[] White Golf Bag            [] Reel-to-Reel
+[] DUMMY                     [] Retro Stereo
+                             [] Tape Deck
+                             [] Turntable
+                             [] White Boom Box
+                             [] Lovely Stereo
+
+-ISLAND ITEMS (!!!)-         -GULLIVER ITEMS (!!!)-         -MODELS (!!!)-
+[] Beach Chair               [] Arc de Triomphe             [] Cosmos Model 1
+[] Beach Table               [] Chinese Lion                [] Cosmos Model 2
+[] Diver Dan                 [] Chinese Lioness             [] Cosmos Model 3
+[] Life Ring                 [] Compass                     [] Dirt Model
+[] Snowcone Machine          [] Fishing Bear                [] Dump Model
+[] Surfboard                 [] Lady Liberty                [] Grass Model
+[] Treasure Chest            [] Manekin Pis                 [] House Model
+[] Ukulele                   [] Matryoshka                  [] Igloo Model
+[] Wave Breaker              [] Merlion                     [] Katrina's Tent
+                             [] Mermaid Statue              [] Lighthouse Model
+-SPECIAL GIFTS/ITEMS (!!!)-  [] Moai Statue                 [] Locomotive Model
+[] Aerobics Radio            [] Mouth of Truth              [] Manor Model
+[] Angler Trophy             [] Pagoda                      [] Market Model
+[] Autumn Medal              [] Plate Armor                 [] Museum Model
+[] Backpack                  [] Shogi Piece                 [] Pansy Model 1
+[] Birthday Cake             [] Stone Coin                  [] Pansy Model 2
+[] Bonfire                   [] Tiger Bobblehead            [] Pansy Model 3
+[] Bottle Rocket             [] Tokyo Tower                 [] Pink Tree Model
+[] Bottled Ship              [] Tower of Pisa               [] Police Model
+[] Campfire                  [] Tribal Mask                 [] Post Model
+[] Chocolates                                               [] Shop Model
+[] Chowder                   -NES GAMES (!!!)-              [] Snowy Tree Model
+[] Cooler                    [] Balloon Fight               [] Station Model 1
+[] Cornucopia                [] Baseball                    [] Station Model 2
+[] Crab Stew                 [] Clu Clu Land                [] Station Model 3
+[] Dolly                     [] Clu Clu Land D              [] Station Model 4
+[] Fireplace                 [] DK Jr Math                  [] Station Model 5
+[] Fishing Trophy            [] Donkey Kong                 [] Station Model 6
+[] Kayak                     [] Donkey Kong 3               [] Station Model 7
+[] Lantern                   [] Donkey Kong Jr.             [] Station Model 8
+[] Lovely Phone              [] Excitebike                  [] Station Model 9
+[] Mailbox                   [] Golf                        [] Station Model 10
+[] Miniature Car             [] NES             -(R)        [] Station Model 11
+[] Moon                      [] Pinball                     [] Station Model 12
+[] Mountain Bike             [] Punch-Out                   [] Station Model 13
+[] Noisemaker                [] Soccer                      [] Station Model 14
+[] Piggy Bank                [] Super Tortimer              [] Station Model 15
+[] Propane Stove             [] Tennis                      [] Tailor Model
+[] Sleeping Bag              [] Wario's Woods               [] Tent Model
+[] Sleigh                                                   [] Track Model
+[] Snow Bunny                -JOURNALS-                     [] Train Car Model
+[] Snowboard                 [] Blue Diary                  [] Tree Model
+[] Snowman                   [] Blue Polka Pad              [] Tulip Model 1
+[] Spring Medal              [] Calligraphy Pad             [] Tulip Model 2
+[] Telescope                 [] Captain's Log               [] Tulip Model 3
+[] Tissue                    [] College Rule                [] Weed Model
+[] Festive Tree              [] Diary                       [] Well Model
+[] Big Festive Tree          [] French Notebook
+[] Festive Candle            [] Green Plaid Pad
+[] Festive Flag              [] Journal
+[] Birthday Cake             [] Organizer
+[] Jack o Lantern            [] Pink Diary
+[] jack in the Box           [] Pink Plaid Pad
+[] Bottle Rocket             [] Red Polka Pad
+                             [] School Pad
+                             [] Scroll
+                             [] Yellow Plaid Pad

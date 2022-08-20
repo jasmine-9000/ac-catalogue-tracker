@@ -1,0 +1,150 @@
+Regal Armoire
+Regal Bed        -(R)
+Regal Bookcase
+Regal Chair      -(R)
+Regal Cupboard   -(L)
+Regal Dresser
+Regal Lamp
+Regal Sofa
+Regal Table
+Regal Vanity
+Harvest Bed
+Harvest Bureau
+Harvest Chair
+Harvest Clock
+Harvest Dresser
+Harvest Lamp
+Harvest Mirror
+Harvest Sofa
+Harvest Table
+Harvest TV
+Modern Bed
+Modern Cabinet   -(L)
+Modern Chair
+Modern Desk
+Modern Dresser
+Modern End Table -(R)
+Modern Lamp
+Modern Sofa
+Modern Table
+Modern Wardrobe  -(R)
+Spooky Bed
+Spooky Bookcase
+Spooky Chair
+Spooky Clock
+Spooky Dresser
+Spooky Lamp
+Spooky Sofa
+Spooky Table
+Spooky Vanity
+Spooky Wardrobe
+Snowman Bed
+Snowman Chair
+Snowman Clock
+Snowman Dresser
+Snowman Fridge
+Snowman Lamp
+Snowman Sofa
+Snowman Table
+Snowman TV
+Snowman Wardrobe
+Blue Bed         -(R)
+Blue Bench
+Blue Bookcase
+Blue Bureau
+Blue Cabinet
+Blue Chair
+Blue Clock
+Blue Dresser     -(L)
+Blue Table       -(R)
+Blue Wardrobe
+Cabana Armchair  -(L)
+Cabana Bed       -(R)
+Cabana Bookcase
+Cabana Chair     -(R)
+Cabana Dresser
+Cabana Lamp
+Cabana Screen
+Cabana Table
+Cabana Vanity
+Cabana Wardrobe
+Cabin Armchair
+Cabin Bed
+Cabin Bookcase   -(L)
+Cabin Chair      -(R)
+Cabin Clock
+Cabin Couch
+Cabin Dresser    -(R)
+Cabin Low Table
+Cabin Table
+Cabin Wardrobe
+Classic Bed
+Classic Cabinet
+Classic Chair
+Classic Clock
+Classic Desk
+Classic Hutch    -(L)
+Classic Sofa
+Classic Table
+Classic Vanity   -(R)
+Classic Wardrobe -(R)
+Exotic Bed       -(R)
+Exotic Bench
+Exotic Bureau
+Exotic Chair
+Exotic Chest
+Exotic End Table
+Exotic Lamp      -(L)
+Exotic Screen
+Exotic Table     -(R)
+Exotic Wardrobe
+Green Bed
+Green Bench
+Green Chair
+Green Counter
+Green Desk
+Green Dresser    -(R)
+Green Lamp
+Green Pantry     -(L)
+Green Table
+Green Wardrobe   -(R)
+Kiddie Bed       -(R)
+Kiddie Bookcase
+Kiddie Bureau
+Kiddie Chair
+Kiddie Clock     -(R)
+Kiddie Couch
+Kiddie Dresser
+Kiddie Stereo    -(L)
+Kiddie Table
+Kiddie Wardrobe
+Lovely Armchair
+Lovely Armoire
+Lovely Bed
+Lovely Chair
+Lovely Dresser
+Lovely End Table -(R)
+Lovely Kitchen   -(L)
+Lovely Lamp
+Lovely Table
+Lovely Vanity
+Ranch Armchair
+Ranch Bed
+Ranch Bookcase
+Ranch Chair      -(R)
+Ranch Couch
+Ranch Dresser    -(R)
+Ranch Hutch      -(L)
+Ranch Table
+Ranch Tea Table
+Ranch Wardrobe
+Jingle Bed
+Jingle Chair
+Jingle Clock
+Jingle Dresser
+Jingle Lamp
+Jingle Piano
+Jingle Shelves
+Jingle Sofa
+Jingle Table
+Jingle Wardrobe

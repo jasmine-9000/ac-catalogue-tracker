@@ -1,0 +1,27 @@
+Tricera Skull
+Tricera Tail
+Tricera Torso
+Trilobite
+T-Rex Skull
+T-Rex Tail
+T-Rex Torso
+Stego Tail
+Stego Torso
+Amber
+Ammonite
+Apato Skull
+Apato Tail
+Apato Torso
+Dinosaur Egg
+Dinosaur Track
+Mammoth Skull
+Mammoth Torso
+Plesio Neck
+Plesio Skull
+Plesio Torso
+Ptera Left Wing
+Ptera Right Wing
+Ptera Skull
+Stego Skull
+Stego Tail
+Stego Torso

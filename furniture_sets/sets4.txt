@@ -1,0 +1,124 @@
+Amazing Painting -(R)
+Basic Painting
+Classic Painting
+Common Painting  -(R)
+Dainty Painting  -(R)
+Famous Painting  -(R)
+Fine Painting
+Flowery Painting -(R)
+Moving Painting  -(R)
+Perfect Painting
+Quaint Painting  -(R)
+Rare Painting
+Scary Painting   -(R)
+Strange Painting
+Worthy Painting
+
+Biwa Lute
+Ebony Piano      -(R)
+Harp
+Ivory Piano      -(L)
+Metronome
+Taiko Drum
+Vibraphone
+
+Lovely Stereo
+Barber's Pole
+Barrel
+Billiard Table
+Birdcage
+Bus Stop
+Chess Table
+Computer         -(R)
+Elephant Slide
+Executive Toy
+Extinguisher
+Fan
+Garbage Can
+Glass Top Table
+Hinaningyo       -(R)
+Keg
+Mochi Pestle
+Nook's Portrait  -(L)
+Orange Box
+Pineapple Bed
+Potbelly Stove
+Slot Machine
+Stove
+Radiator
+Refrigerator
+Retro TV
+Rocking Chair
+Samurai Suit     -(L)
+Scale
+Sewing Machine
+Space Heater
+Super Toilet     -(R)
+Table Tennis
+Tanabata Palm    -(R)
+Tea Set
+Toilet
+Train Set
+Trash Bin
+Water Bird
+Wide-screen TV   -(R)
+Wobbelina
+Daffodil
+Gerbera
+Sunflower
+Blue Golf Bag
+Green Golf Bag
+White Golf Bag
+DUMMY
+
+Cream Sofa
+Gold Econo-chair
+Red Sofa
+Jade Econo-chair
+Red Armchair
+Red Sofa
+Rocking Chair
+Ruby Econo-chair
+Alarm Clock
+Antique Clock
+Cube Clock
+Glow Clock
+Kitschy Clock
+Odd Clock
+Owl Clock
+Red Clock
+Azalea Bonsai
+Hawthorn Bonsai
+Holly Bonsai
+Jasmine Bonsai
+Maple Bonsai
+Plum Bonsai      -(L)
+Quince Bonsai
+Aloe
+Bromeliaceae
+Caladium
+Coconut Palm
+Corn Plant
+Croton
+Dracaena         -(L)
+Fan Palm
+Lady Palm
+Pachira
+Pothos
+Rubber Tree
+Snake Plant
+Weeping Fig
+CD Player
+Dice Stereo      -(R)
+Gold Stereo
+Hi-Fi Stereo     -(L)
+High-End Stereo  -(R)
+Jukebox          -(L)
+Red Boom Box
+Phonograph
+Reel-to-Reel
+Retro Stereo
+Tape Deck
+Turntable
+White Boom Box
+Lovely Stereo

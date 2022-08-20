@@ -1,0 +1,67 @@
+18 Mat Tatami
+Exotic Rug
+Ornate Rug
+8 Mat Tatami
+Exquisite Rug
+Palace Tile
+Ancient Tile     -(S)
+Fancy Carpet
+Parquet Floor
+Backyard Lawn
+Green Rug
+Playroom Rug
+Bamboo Flooring
+Harvest Rug      -(!)
+Plaza Tile
+Basement Floor   -(S)
+Imperial Tile
+Plush Carpet
+Birch Flooring
+Jingle Carpet    -(!)
+Ranch Flooring
+Blue Flooring
+Kiddie Carpet
+Red Tile
+Boxing Ring Mat  -(S)
+Kitchen Flooring
+Regal Carpet
+Cabana Flooring
+Kitchen Tile
+Saharrah's Desert-(S)
+Cabin Rug
+Kitschy Tile
+Sand Garden      -(S)
+Ceramic Tile
+Lovely Carpet
+Sandlot          -(S)
+Charcoal Tile
+Lunar Surface    -(S)
+Shanty Mat
+Checkered Tile
+Modern Tile
+Sidewalk         -(S)
+Chessboard Rug   -(S)
+Mosaic Tile
+Slate Flooring
+Citrus Carpet
+Mossy Carpet     -(S)
+Snowman Carpet   -(!)
+Classic Carpet
+Music Room Floor -(S)
+Spooky Carpet    -(!)
+Classroom Floor  -(S)
+Office Flooring  -(S)
+Steel Flooring
+Closed Road      -(S)
+Old Flooring
+Stone Tile
+Concrete Floor   -(S)
+Opulent Rug
+Tartan Rug
+Daisy Meadow     -(S)
+Cowhide Rug
+Tatami Floor
+Diner Tile
+Block Flooring   -(!)
+Tropical Floor   -(S)
+Western Desert   -(S)

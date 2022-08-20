@@ -1,0 +1,95 @@
+Office Chair
+Office Desk
+Office Locker
+
+Pine Chair
+Pine Table
+
+Bear Pole
+Eagle Pole
+Frog Woman Pole  -(R)
+Raven Pole
+
+Blue Vase
+Red Vase
+Tea Vase
+
+Candy Machine
+Coffee Machine
+Pop Machine      -(L)
+Soda Machine
+
+Globe
+Writing Chair
+Writing Desk
+
+Conga Drum
+Djimbe Drum
+Tinpano Drum     -(R)
+Djimbe Drum
+
+Cello
+Violin
+Bass
+
+Apple Clock
+Apple TV
+
+Baby Bear
+Mama Bear
+Papa Bear
+
+Mugho Bonsai
+Pine Bonsai
+Pondarosa Bonsai
+
+Cactus
+Round Cactus
+Tall Cactus
+
+Grapefruit Table
+Lemon Table
+Lime Chair
+Orange Chair
+
+Daffodil Chair
+Daffodil Table
+
+Iris Chair
+Iris Table
+
+Tulip Chair
+Tulip Table
+
+Robo Clock
+Robo Stereo
+
+Aiko Figurine
+Emi Figurine
+Keiko Figurine
+Maki Figurine
+Naomi Figurine
+Yoko Figurine
+Yuki Figurine
+
+Froggy Chair
+Lily-pad Table
+
+Country Guitar
+Folk Guitar
+Rock Guitar
+
+Luigi Trophy     -(R)
+Mario Trophy     -(L)
+
+Melon Chair
+Watermelon Chair
+Watermelon Table
+
+Arwing           -(L)
+G Logo
+Master Sword
+N Logo
+
+Pear Dresser
+Pear Wardrobe

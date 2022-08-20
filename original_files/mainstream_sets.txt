@@ -1,0 +1,50 @@
+[] Blue Bed         -(R)     [] Green Bed                 [] Regal Armoire
+[] Blue Bench                [] Green Bench               [] Regal Bed        -(R)
+[] Blue Bookcase             [] Green Chair               [] Regal Bookcase
+[] Blue Bureau               [] Green Counter             [] Regal Chair      -(R)
+[] Blue Cabinet              [] Green Desk                [] Regal Cupboard   -(L)
+[] Blue Chair                [] Green Dresser    -(R)     [] Regal Dresser
+[] Blue Clock                [] Green Lamp                [] Regal Lamp
+[] Blue Dresser     -(L)     [] Green Pantry     -(L)     [] Regal Sofa
+[] Blue Table       -(R)     [] Green Table               [] Regal Table
+[] Blue Wardrobe             [] Green Wardrobe   -(R)     [] Regal Vanity
+[] Cabana Armchair  -(L)     [] Kiddie Bed       -(R)     [] Harvest Bed
+[] Cabana Bed       -(R)     [] Kiddie Bookcase           [] Harvest Bureau
+[] Cabana Bookcase           [] Kiddie Bureau             [] Harvest Chair
+[] Cabana Chair     -(R)     [] Kiddie Chair              [] Harvest Clock
+[] Cabana Dresser            [] Kiddie Clock     -(R)     [] Harvest Dresser
+[] Cabana Lamp               [] Kiddie Couch              [] Harvest Lamp
+[] Cabana Screen             [] Kiddie Dresser            [] Harvest Mirror
+[] Cabana Table              [] Kiddie Stereo    -(L)     [] Harvest Sofa
+[] Cabana Vanity             [] Kiddie Table              [] Harvest Table
+[] Cabana Wardrobe           [] Kiddie Wardrobe           [] Harvest TV
+[] Cabin Armchair            [] Lovely Armchair           [] Modern Bed
+[] Cabin Bed                 [] Lovely Armoire            [] Modern Cabinet   -(L)
+[] Cabin Bookcase   -(L)     [] Lovely Bed                [] Modern Chair
+[] Cabin Chair      -(R)     [] Lovely Chair              [] Modern Desk
+[] Cabin Clock               [] Lovely Dresser            [] Modern Dresser
+[] Cabin Couch               [] Lovely End Table -(R)     [] Modern End Table -(R)
+[] Cabin Dresser    -(R)     [] Lovely Kitchen   -(L)     [] Modern Lamp
+[] Cabin Low Table           [] Lovely Lamp               [] Modern Sofa
+[] Cabin Table               [] Lovely Table              [] Modern Table
+[] Cabin Wardrobe            [] Lovely Vanity             [] Modern Wardrobe  -(R)
+[] Classic Bed               [] Ranch Armchair            [] Spooky Bed
+[] Classic Cabinet           [] Ranch Bed                 [] Spooky Bookcase
+[] Classic Chair             [] Ranch Bookcase            [] Spooky Chair
+[] Classic Clock             [] Ranch Chair      -(R)     [] Spooky Clock
+[] Classic Desk              [] Ranch Couch               [] Spooky Dresser
+[] Classic Hutch    -(L)     [] Ranch Dresser    -(R)     [] Spooky Lamp
+[] Classic Sofa              [] Ranch Hutch      -(L)     [] Spooky Sofa
+[] Classic Table             [] Ranch Table               [] Spooky Table
+[] Classic Vanity   -(R)     [] Ranch Tea Table           [] Spooky Vanity
+[] Classic Wardrobe -(R)     [] Ranch Wardrobe            [] Spooky Wardrobe
+[] Exotic Bed       -(R)     [] Jingle Bed                [] Snowman Bed
+[] Exotic Bench              [] Jingle Chair              [] Snowman Chair
+[] Exotic Bureau             [] Jingle Clock              [] Snowman Clock
+[] Exotic Chair              [] Jingle Dresser            [] Snowman Dresser
+[] Exotic Chest              [] Jingle Lamp               [] Snowman Fridge
+[] Exotic End Table          [] Jingle Piano              [] Snowman Lamp
+[] Exotic Lamp      -(L)     [] Jingle Shelves            [] Snowman Sofa
+[] Exotic Screen             [] Jingle Sofa               [] Snowman Table
+[] Exotic Table     -(R)     [] Jingle Table              [] Snowman TV
+[] Exotic Wardrobe           [] Jingle Wardrobe           [] Snowman Wardrobe

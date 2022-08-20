@@ -1,0 +1,9 @@
+[] Amber                    [] Plesio Neck                  [] Tricera Skull
+[] Ammonite                 [] Plesio Skull                 [] Tricera Tail
+[] Apato Skull              [] Plesio Torso                 [] Tricera Torso
+[] Apato Tail               [] Ptera Left Wing              [] Trilobite
+[] Apato Torso              [] Ptera Right Wing             [] T-Rex Skull
+[] Dinosaur Egg             [] Ptera Skull                  [] T-Rex Tail
+[] Dinosaur Track           [] Stego Skull                  [] T-Rex Torso
+[] Mammoth Skull            [] Stego Tail
+[] Mammoth Torso            [] Stego Torso

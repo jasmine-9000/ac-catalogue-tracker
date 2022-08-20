@@ -1,0 +1,32 @@
+[]                           [] Aiko Figurine             [] Office Chair
+[] Apple Clock               [] Emi Figurine              [] Office Desk
+[] Apple TV                  [] Keiko Figurine            [] Office Locker
+[]                           [] Maki Figurine             []
+[] Baby Bear                 [] Naomi Figurine            [] Pine Chair
+[] Mama Bear                 [] Yoko Figurine             [] Pine Table
+[] Papa Bear                 [] Yuki Figurine             []
+[]                           []                           [] Bear Pole
+[] Mugho Bonsai              [] Froggy Chair              [] Eagle Pole
+[] Pine Bonsai               [] Lily-pad Table            [] Frog Woman Pole  -(R)
+[] Pondarosa Bonsai          []                           [] Raven Pole
+[]                           [] Country Guitar            []
+[] Cactus                    [] Folk Guitar               [] Blue Vase
+[] Round Cactus              [] Rock Guitar               [] Red Vase
+[] Tall Cactus               []                           [] Tea Vase
+[]                           [] Luigi Trophy     -(R)     []  
+[] Grapefruit Table          [] Mario Trophy     -(L)     [] Candy Machine
+[] Lemon Table               []                           [] Coffee Machine
+[] Lime Chair                [] Melon Chair               [] Pop Machine      -(L)
+[] Orange Chair              [] Watermelon Chair          [] Soda Machine
+[]                           [] Watermelon Table          []
+[] Daffodil Chair            []                           [] Globe
+[] Daffodil Table            [] Arwing           -(L)     [] Writing Chair
+[]                           [] G Logo                    [] Writing Desk
+[] Iris Chair                [] Master Sword              []
+[] Iris Table                [] N Logo                    [] Conga Drum
+[]                                                        [] Djimbe Drum
+[] Tulip Chair               [] Pear Dresser              [] Tinpano Drum     -(R)
+[] Tulip Table               [] Pear Wardrobe             []
+[]                           []                           [] Cello
+[] Robo Clock                []                           [] Violin
+[] Robo Stereo               []                           [] Bass

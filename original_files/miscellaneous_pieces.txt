@@ -1,0 +1,51 @@
+[] Barber's Pole             [] Cream Sofa                [] Amazing Painting -(R)
+[] Barrel                    [] Gold Econo-chair          [] Basic Painting
+[] Billiard Table            [] Red Sofa                  [] Classic Painting
+[] Birdcage                  [] Jade Econo-chair          [] Common Painting  -(R)
+[] Bus Stop                  [] Red Armchair              [] Dainty Painting  -(R)
+[] Chess Table               [] Red Sofa                  [] Famous Painting  -(R)
+[] Computer         -(R)     [] Rocking Chair             [] Fine Painting
+[] Elephant Slide            [] Ruby Econo-chair          [] Flowery Painting -(R)
+[] Executive Toy             [] Alarm Clock               [] Moving Painting  -(R)
+[] Extinguisher              [] Antique Clock             [] Perfect Painting
+[] Fan                       [] Cube Clock                [] Quaint Painting  -(R)
+[] Garbage Can               [] Glow Clock                [] Rare Painting
+[] Glass Top Table           [] Kitschy Clock             [] Scary Painting   -(R)
+[] Hinaningyo       -(R)     [] Odd Clock                 [] Strange Painting
+[] Keg                       [] Owl Clock                 [] Worthy Painting
+[] Mochi Pestle              [] Red Clock                 []
+[] Nook's Portrait  -(L)     [] Azalea Bonsai             []
+[] Orange Box                [] Hawthorn Bonsai           [] Biwa Lute
+[] Pineapple Bed             [] Holly Bonsai              [] Ebony Piano      -(R)
+[] Potbelly Stove            [] Jasmine Bonsai            [] Harp
+[] Slot Machine              [] Maple Bonsai              [] Ivory Piano      -(L)
+[] Stove                     [] Plum Bonsai      -(L)     [] Metronome
+[] Radiator                  [] Quince Bonsai             [] Taiko Drum
+[] Refrigerator              [] Aloe                      [] Vibraphone
+[] Retro TV                  [] Bromeliaceae              []
+[] Rocking Chair             [] Caladium []
+[] Samurai Suit     -(L)     [] Coconut Palm []
+[] Scale                     [] Corn Plant []
+[] Sewing Machine            [] Croton []
+[] Space Heater              [] Dracaena         -(L)[]
+[] Super Toilet     -(R)     [] Fan Palm[]
+[] Table Tennis              [] Lady Palm[]
+[] Tanabata Palm    -(R)     [] Pachira[]
+[] Tea Set                   [] Pothos[]
+[] Toilet                    [] Rubber Tree[]
+[] Train Set                 [] Snake Plant[]
+[] Trash Bin                 [] Weeping Fig[]
+[] Water Bird                [] CD Player[]
+[] Wide-screen TV   -(R)     [] Dice Stereo      -(R)[]
+[] Wobbelina                 [] Gold Stereo[]
+[] Daffodil                  [] Hi-Fi Stereo     -(L)[]
+[] Gerbera                   [] High-End Stereo  -(R)[]
+[] Sunflower                 [] Jukebox          -(L)[]
+[] Blue Golf Bag             [] Red Boom Box[]
+[] Green Golf Bag            [] Phonograph[]
+[] White Golf Bag            [] Reel-to-Reel[]
+[] DUMMY                     [] Retro Stereo[]
+ []                            [] Tape Deck[]
+ []                            [] Turntable[]
+[]                             [] White Boom Box[]
+ []                            [] Lovely Stereo[]

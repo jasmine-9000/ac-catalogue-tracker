@@ -1,0 +1,47 @@
+[] Backyard Pool    -(R)     [] Blue Corner      -(L)     [] Black Bishop     -(R)
+[] Barbecue                  [] Boxing Barricade          [] Black King       -(L)
+[] Bird Bath                 [] Boxing Mat                [] Black Knight     -(R)
+[] Bird Feeder               [] Judge's Bell     -(R)     [] Black Pawn
+[] Birdhouse                 [] Neutral Corner            [] Black Rook       -(R)
+[] Bug Zapper                [] Red Corner       -(R)     [] Black Queen      -(L)
+[] Garden Gnome     -(L)     [] Ringside Table            [] White Bishop     -(R)
+[] Hammock                   [] Sandbag                   [] White King       -(L)
+[] Lawn Chair                [] Speed Bag                 [] White Knight     -(R)
+[] Lawn Mower       -(R)     [] Weight Bench              [] White Pawn
+[] Mr. Flamingo              []                           [] White Rook       -(R)
+[] Mrs. Flamingo             []                           [] White Queen      -(L)
+[] Picnic Table [][]
+[] Sprinkler [][]
+[] Tiki Torch [][]
+[] Cement Mixer     -(L)     [] Deer Scare       -(R)     [] Teacher's Chair
+[] Detour Arrow              [] Garden Pond      -(L)     [] Chalk Board
+[] Detour Sign               [] Low Lantern               [] Cubby Hole
+[] Flagman Sign              [] Pond Lantern              [] Flip-Top Desk
+[] Green Drum                [] Shrine Lantern            [] Folding Chair
+[] Handcart                  [] Tall Lantern              [] Lefty Desk
+[] Haz-Mat Barrel            []                           [] Letter Cubby     -(R)
+[] Iron Frame                -ROCK GARDEN THEME-          [] Righty Desk
+[] Jackhammer                [] Dark Stone                [] Hamster Cage     -(L)
+[] Jersey Barrier            [] Garden Stone              [] School Desk
+[] Manhole Cover             [] Leaning Stone             [] Science Table
+[] Men at Work Sign          [] Mossy Stone               [] Teacher's Desk
+[] Merge Sign                [] Standing Stone            [] Vaulting Horse
+[] Oil Drum                  [] Stone Couple              [] Mop
+[] Orange Cone               []                           []
+[] Saw Horse                 []                           []
+[] Speed Sign                [] Covered Wagon    -(L)     [] Asteroid
+[] Steamroller      -(R)     [] Cow Skull                 [] Flying Saucer
+[] Traffic Cone              [] Desert Cactus             [] Lunar Lander
+[] Wet Roadway Sign          [] Saddle Fence     -(R)     [] Lunar Rover
+[]                           [] Storefront                [] Rocket
+[]                           [] Tumbleweed                [] Satellite
+[] Starman                   [] Wagon Wheel               [] Space Shuttle
+[] Flagpole                  [] Watering Trough           [] Space Station
+[] Mushroom                  [] Well             -(R)     [] Spaceman Sam
+[] Fire Flower               [] Western Fence []
+[] Flagpole [] []
+[] ? Block [] []
+[] Brick Block [] []
+[] Cannon [] []
+[] Green Pipe [] []
+[] Coin [] []

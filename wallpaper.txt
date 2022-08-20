@@ -1,0 +1,66 @@
+Ancient Wall     -(W)
+Green Wall
+Office Wall      -(W)
+Arched Window
+Groovy Wall
+Old Brick Wall
+Backgammon Wall  -(W)
+Harvest Wall     -(!)
+Ornate Wall
+Backyard Fence
+Imperial Wall
+Parlor Wall
+Bamboo Wall
+Industrial Wall  -(W)
+Plaster Wall
+Basement Wall    -(W)
+Ivy Wall
+Playroom Wall
+Blue Tarp        -(W)
+Jingle Wall      -(!)
+Plaza Wall
+Blue Wall
+Kiddie Wall
+Ranch Wall
+Blue-Trim Wall
+Kitchen Wall
+Regal Wall
+Cabana Wall
+Kitschy Wall
+Ringside Seating -(W)
+Cabin Wall
+Lattice Wall
+Rose Wall
+Chic Wall
+Library Wall
+Sandlot Wall     -(W)
+Citrus Wall
+Lovely Wall
+Shanty Wall
+Classic Wall
+Lunar Horizon    -(W)
+Snowman Wall     -(!)
+Classroom Wall   -(W)
+Manor Wall
+Spooky Wall      -(!)
+Concrete Wall
+Meadow Vista     -(W)
+Stately Wall
+Desert Vista     -(W)
+Mod Wall
+Stone Wall
+Exotic Wall
+Modern Screen
+Tea Room Wall
+Exquisite Wall
+Modern Wall
+Tree-Lined Wal   -(W)
+Floral Wall
+Mortar Wall      -(W)
+Tropical Vista   -(W)
+Garden Wall
+Mosiac Wall
+Western Vista    -(W)
+Gold Screen Wall
+Music Room Wall  -(W)
+Wood Paneling

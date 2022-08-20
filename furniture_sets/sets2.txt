@@ -1,0 +1,113 @@
+Black Bishop     -(R)
+Black King       -(L)
+Black Knight     -(R)
+Black Pawn
+Black Rook       -(R)
+Black Queen      -(L)
+White Bishop     -(R)
+White King       -(L)
+White Knight     -(R)
+White Pawn
+White Rook       -(R)
+White Queen      -(L)
+Teacher's Chair
+Chalk Board
+Cubby Hole
+Flip-Top Desk
+Folding Chair
+Lefty Desk
+Letter Cubby     -(R)
+Righty Desk
+Hamster Cage     -(L)
+School Desk
+Science Table
+Teacher's Desk
+Vaulting Horse
+Mop
+Asteroid
+Flying Saucer
+Lunar Lander
+Lunar Rover
+Rocket
+Satellite
+Space Shuttle
+Space Station
+Spaceman Sam
+Backyard Pool    -(R)
+Barbecue
+Bird Bath
+Bird Feeder
+Birdhouse
+Bug Zapper
+Garden Gnome     -(L)
+Hammock
+Lawn Chair
+Lawn Mower       -(R)
+Mr. Flamingo
+Mrs. Flamingo
+Picnic Table
+Sprinkler
+Tiki Torch
+Cement Mixer     -(L)
+Detour Arrow
+Detour Sign
+Flagman Sign
+Green Drum
+Handcart
+Haz-Mat Barrel
+Iron Frame                -ROCK GARDEN THEME-
+Jackhammer
+Jersey Barrier
+Manhole Cover
+Men at Work Sign
+Merge Sign
+Oil Drum
+Orange Cone
+Saw Horse
+Speed Sign
+Steamroller      -(R)
+Traffic Cone
+Wet Roadway Sign
+Starman
+Flagpole
+Mushroom
+Fire Flower
+Flagpole
+? Block
+Brick Block
+Cannon
+Green Pipe
+Coin
+Blue Corner      -(L)
+Boxing Barricade
+Boxing Mat
+Judge's Bell     -(R)
+Neutral Corner
+Red Corner       -(R)
+Ringside Table
+Sandbag
+Speed Bag
+Weight Bench
+Deer Scare       -(R)
+Garden Pond      -(L)
+Low Lantern
+Pond Lantern
+Shrine Lantern
+Tall Lantern
+Righty Desk
+Dark Stone
+Garden Stone
+Leaning Stone
+Mossy Stone
+Standing Stone
+Stone Couple
+Covered Wagon    -(L)
+Cow Skull
+Desert Cactus
+Saddle Fence     -(R)
+Storefront
+Tumbleweed
+Wagon Wheel
+Watering Trough
+Well             -(R)
+Western Fence

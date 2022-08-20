@@ -1,0 +1,21 @@
+[] Gelato Umbrella          [] Paper Parasol                [] Green Pinwheel
+[] Daffodil Parasol         [] Polka Parasol                [] Pink Pinwheel
+[] Berry Umbrella           [] Sharp Umbrella               [] Striped Pinwheel
+[] Orange Umbrella          [] Twig Parasol                 [] Flower Pinwheel
+[] Mod Umbrella             [] Noodle Parasol               [] Fancy Pinwheel
+[] Petal Parasol            [] Hypno Parasol                [] Red Balloon
+[] Ribbon Umbrella          [] Pastel Parasol               [] Yellow Balloon
+[] Gingham Parasol          [] Retro Umbrella               [] Blue Balloon
+[] Plaid Parasol            [] Icy Umbrella                 [] Green Balloon
+[] Lacy Parasol             [] Blue Umbrella                [] Purple Balloon
+[] Elegant Umbrella         [] Flame Umbrella               [] Bunny P. Balloon
+[] Dainty Parasol           [] Bluebell Fan                 [] Bunny B. Balloon
+[] Classic Umbrella         [] Plum Fan                     [] Bunny O. Balloon
+[] Nintendo Parasol         [] Bamboo Fan                   [] Golden Net       -(!)
+[] Bumbershoot              [] Cloud Fan                    [] Golden Axe       -(!)
+[] Sunny Parasol            [] Maple Fan                    [] Golden Shovel    -(!)
+[] Batbrella                [] Flower Fan                   [] Golden Rod       -(!)
+[] Checkered Umbrella       [] Leaf Fan                     [] Net
+[] Yellow Umbrella          [] Yellow Pinwheel              [] Axe
+[] Leaf Umbrella            [] Red Pinwheel                 [] Shovel
+[] Lotus Parasol            [] Tiger Pinwheel               [] Fishing Rod
